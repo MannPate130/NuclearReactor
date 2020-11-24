@@ -40,6 +40,7 @@ namespace NuclearReactor
             reactor2StateLabel.BackColor = Color.Red;
             Refresh();
             Thread.Sleep(1000);
+
            
             
         }
